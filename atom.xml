@@ -6,7 +6,7 @@
   <link href="https://ytlgithub.github.io/atom.xml" rel="self"/>
   
   <link href="https://ytlgithub.github.io/"/>
-  <updated>2021-07-23T16:10:26.758Z</updated>
+  <updated>2021-07-24T13:59:22.073Z</updated>
   <id>https://ytlgithub.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://ytlgithub.github.io/2021/07/20/my-new-post/"/>
     <id>https://ytlgithub.github.io/2021/07/20/my-new-post/</id>
     <published>2021-07-20T09:32:12.000Z</published>
-    <updated>2021-07-23T16:10:26.758Z</updated>
+    <updated>2021-07-24T13:59:22.073Z</updated>
     
     
       
@@ -34,6 +34,34 @@
       
     
     
+    
+    <category term="Blog" scheme="https://ytlgithub.github.io/categories/Blog/"/>
+    
+    
+    <category term="Blog" scheme="https://ytlgithub.github.io/tags/Blog/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>部署个人博客</title>
+    <link href="https://ytlgithub.github.io/2021/07/20/blog/"/>
+    <id>https://ytlgithub.github.io/2021/07/20/blog/</id>
+    <published>2021-07-20T09:32:12.000Z</published>
+    <updated>2021-07-24T14:02:15.080Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;欢迎来到部署个人博客&lt;a href=&quot;https://ytlgithub.github.io/&quot;&gt;ytlBlog&lt;/a&gt;!&lt;/p&gt;
+&lt;h2 id=&quot;部署个人博客&quot;&gt;&lt;a href=&quot;#部署个人博客&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Blog" scheme="https://ytlgithub.github.io/categories/Blog/"/>
     
     
     <category term="Blog" scheme="https://ytlgithub.github.io/tags/Blog/"/>
