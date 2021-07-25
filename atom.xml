@@ -6,7 +6,7 @@
   <link href="https://ytlgithub.github.io/atom.xml" rel="self"/>
   
   <link href="https://ytlgithub.github.io/"/>
-  <updated>2021-07-25T14:53:17.302Z</updated>
+  <updated>2021-07-25T15:31:14.618Z</updated>
   <id>https://ytlgithub.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>五种状态码</title>
+    <link href="https://ytlgithub.github.io/2021/07/25/wu-chong-zhuang-tai-ma/"/>
+    <id>https://ytlgithub.github.io/2021/07/25/wu-chong-zhuang-tai-ma/</id>
+    <published>2021-07-25T15:29:31.000Z</published>
+    <updated>2021-07-25T15:31:14.618Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;状态码&quot;&gt;&lt;a href=&quot;#状态码&quot; class=&quot;headerlink&quot; title=&quot;状态码&quot;&gt;&lt;/a&gt;状态码&lt;/h2&gt;&lt;h3 id=&quot;一、100-状态码&quot;&gt;&lt;a href=&quot;#一、100-状态码&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="web" scheme="https://ytlgithub.github.io/categories/web/"/>
+    
+    
+    <category term="web" scheme="https://ytlgithub.github.io/tags/web/"/>
+    
+  </entry>
   
   <entry>
     <title>github</title>
