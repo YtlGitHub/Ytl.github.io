@@ -6,7 +6,7 @@
   <link href="https://ytlgithub.github.io/atom.xml" rel="self"/>
   
   <link href="https://ytlgithub.github.io/"/>
-  <updated>2021-07-25T11:07:58.821Z</updated>
+  <updated>2021-07-25T11:51:12.622Z</updated>
   <id>https://ytlgithub.github.io/</id>
   
   <author>
@@ -17,18 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>ytlmysql安装教程</title>
-    <link href="https://ytlgithub.github.io/2021/07/25/ytlmysql-an-zhuang-jiao-cheng/"/>
-    <id>https://ytlgithub.github.io/2021/07/25/ytlmysql-an-zhuang-jiao-cheng/</id>
-    <published>2021-07-25T09:28:47.000Z</published>
-    <updated>2021-07-25T11:07:58.821Z</updated>
+    <title>ytlmysql</title>
+    <link href="https://ytlgithub.github.io/2021/07/25/ytlmysql/"/>
+    <id>https://ytlgithub.github.io/2021/07/25/ytlmysql/</id>
+    <published>2021-07-25T09:20:59.000Z</published>
+    <updated>2021-07-25T11:51:12.622Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;ytlmysql安装&quot;&gt;&lt;a href=&quot;#ytlmysql安装&quot; class=&quot;headerlink&quot; title=&quot;ytlmysql安装&quot;&gt;&lt;/a&gt;ytlmysql安装&lt;/h2&gt;&lt;h3 id=&quot;一-下载MySQL&quot;&gt;&lt;a href=&quot;#一-下载MySQL&quot;</summary>
+    <summary type="html">&lt;h2 id=&quot;ytlmysql&quot;&gt;&lt;a href=&quot;#ytlmysql&quot; class=&quot;headerlink&quot; title=&quot;ytlmysql&quot;&gt;&lt;/a&gt;ytlmysql&lt;/h2&gt;&lt;h3</summary>
         
       
     
@@ -42,18 +42,18 @@
   </entry>
   
   <entry>
-    <title>ytlmysql</title>
-    <link href="https://ytlgithub.github.io/2021/07/25/ytlmysql/"/>
-    <id>https://ytlgithub.github.io/2021/07/25/ytlmysql/</id>
-    <published>2021-07-25T09:20:59.000Z</published>
-    <updated>2021-07-25T10:55:28.827Z</updated>
+    <title>ytlmysql安装教程</title>
+    <link href="https://ytlgithub.github.io/2021/07/24/ytlmysql-an-zhuang-jiao-cheng/"/>
+    <id>https://ytlgithub.github.io/2021/07/24/ytlmysql-an-zhuang-jiao-cheng/</id>
+    <published>2021-07-24T09:28:47.000Z</published>
+    <updated>2021-07-25T11:35:08.521Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;ytlmysql&quot;&gt;&lt;a href=&quot;#ytlmysql&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h2 id=&quot;ytlmysql安装&quot;&gt;&lt;a href=&quot;#ytlmysql安装&quot; class=&quot;headerlink&quot; title=&quot;ytlmysql安装&quot;&gt;&lt;/a&gt;ytlmysql安装&lt;/h2&gt;&lt;h3 id=&quot;一-下载MySQL&quot;&gt;&lt;a href=&quot;#一-下载MySQL&quot;</summary>
         
       
     
