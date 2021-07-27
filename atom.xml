@@ -6,7 +6,7 @@
   <link href="https://ytlgithub.github.io/atom.xml" rel="self"/>
   
   <link href="https://ytlgithub.github.io/"/>
-  <updated>2021-07-25T15:31:14.618Z</updated>
+  <updated>2021-07-27T16:02:25.382Z</updated>
   <id>https://ytlgithub.github.io/</id>
   
   <author>
@@ -17,18 +17,69 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>pythonweb端UI自动化测试</title>
+    <link href="https://ytlgithub.github.io/2021/07/27/pythonweb-duan-ui-zi-dong-hua-ce-shi/"/>
+    <id>https://ytlgithub.github.io/2021/07/27/pythonweb-duan-ui-zi-dong-hua-ce-shi/</id>
+    <published>2021-07-27T15:19:13.000Z</published>
+    <updated>2021-07-27T16:02:25.382Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;ytl用python做web端自动化测试&lt;/p&gt;
+&lt;h2 id=&quot;安装环境&quot;&gt;&lt;a href=&quot;#安装环境&quot; class=&quot;headerlink&quot; title=&quot;安装环境&quot;&gt;&lt;/a&gt;安装环境&lt;/h2&gt;&lt;p&gt;1.安装&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="自动化测试" scheme="https://ytlgithub.github.io/categories/%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95/"/>
+    
+    
+    <category term="自动化测试" scheme="https://ytlgithub.github.io/tags/%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo-theme-matery主题设置</title>
+    <link href="https://ytlgithub.github.io/2021/07/27/hexo-theme-matery-zhu-ti-she-zhi/"/>
+    <id>https://ytlgithub.github.io/2021/07/27/hexo-theme-matery-zhu-ti-she-zhi/</id>
+    <published>2021-07-27T04:26:52.000Z</published>
+    <updated>2021-07-27T14:27:41.513Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;hexo-theme-matery&quot;&gt;&lt;a href=&quot;#hexo-theme-matery&quot; class=&quot;headerlink&quot; title=&quot;hexo-theme-matery&quot;&gt;&lt;/a&gt;hexo-theme-matery&lt;/h1&gt;&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="blog" scheme="https://ytlgithub.github.io/categories/blog/"/>
+    
+    
+    <category term="blog" scheme="https://ytlgithub.github.io/tags/blog/"/>
+    
+  </entry>
+  
+  <entry>
     <title>五种状态码</title>
     <link href="https://ytlgithub.github.io/2021/07/25/wu-chong-zhuang-tai-ma/"/>
     <id>https://ytlgithub.github.io/2021/07/25/wu-chong-zhuang-tai-ma/</id>
     <published>2021-07-25T15:29:31.000Z</published>
-    <updated>2021-07-25T15:31:14.618Z</updated>
+    <updated>2021-07-27T04:43:43.924Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;状态码&quot;&gt;&lt;a href=&quot;#状态码&quot; class=&quot;headerlink&quot; title=&quot;状态码&quot;&gt;&lt;/a&gt;状态码&lt;/h2&gt;&lt;h3 id=&quot;一、100-状态码&quot;&gt;&lt;a href=&quot;#一、100-状态码&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h1 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;h2 id=&quot;状态码&quot;&gt;&lt;a href=&quot;#状态码&quot; class=&quot;headerlink&quot; title=&quot;状态码&quot;&gt;&lt;/a&gt;状态码&lt;/h2&gt;&lt;h3</summary>
         
       
     
@@ -46,8 +97,16 @@
     <link href="https://ytlgithub.github.io/2021/07/25/github/"/>
     <id>https://ytlgithub.github.io/2021/07/25/github/</id>
     <published>2021-07-25T14:52:15.000Z</published>
-    <updated>2021-07-25T14:53:17.302Z</updated>
+    <updated>2021-07-27T04:43:43.936Z</updated>
     
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot;</summary>
+        
+      
     
     
     
@@ -63,8 +122,16 @@
     <link href="https://ytlgithub.github.io/2021/07/25/git/"/>
     <id>https://ytlgithub.github.io/2021/07/25/git/</id>
     <published>2021-07-25T14:52:08.000Z</published>
-    <updated>2021-07-25T14:53:17.345Z</updated>
+    <updated>2021-07-27T04:35:45.067Z</updated>
     
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;git命令&quot;&gt;&lt;a href=&quot;#git命令&quot; class=&quot;headerlink&quot; title=&quot;git命令&quot;&gt;&lt;/a&gt;git命令&lt;/h2&gt;&lt;h3 id=&quot;一-安装git&quot;&gt;&lt;a href=&quot;#一-安装git&quot; class=&quot;headerlink&quot;</summary>
+        
+      
     
     
     
@@ -80,14 +147,14 @@
     <link href="https://ytlgithub.github.io/2021/07/25/ytljava/"/>
     <id>https://ytlgithub.github.io/2021/07/25/ytljava/</id>
     <published>2021-07-25T14:46:51.000Z</published>
-    <updated>2021-07-25T15:24:32.921Z</updated>
+    <updated>2021-07-27T04:43:43.919Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;java&quot;&gt;&lt;a href=&quot;#java&quot; class=&quot;headerlink&quot; title=&quot;java&quot;&gt;&lt;/a&gt;java&lt;/h2&gt;&lt;h3 id=&quot;—JAVA格式—&quot;&gt;&lt;a href=&quot;#—JAVA格式—&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h1 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;h2 id=&quot;java&quot;&gt;&lt;a href=&quot;#java&quot; class=&quot;headerlink&quot; title=&quot;java&quot;&gt;&lt;/a&gt;java&lt;/h2&gt;&lt;h3</summary>
         
       
     
@@ -105,14 +172,14 @@
     <link href="https://ytlgithub.github.io/2021/07/25/ytlpython/"/>
     <id>https://ytlgithub.github.io/2021/07/25/ytlpython/</id>
     <published>2021-07-25T14:46:41.000Z</published>
-    <updated>2021-07-25T15:55:10.870Z</updated>
+    <updated>2021-07-27T04:53:43.744Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;uiautomator2工具做app自动化&quot;&gt;&lt;a href=&quot;#uiautomator2工具做app自动化&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h1 id=&quot;ytlpython&quot;&gt;&lt;a href=&quot;#ytlpython&quot; class=&quot;headerlink&quot; title=&quot;ytlpython&quot;&gt;&lt;/a&gt;ytlpython&lt;/h1&gt;&lt;h2 id=&quot;一-代码&quot;&gt;&lt;a href=&quot;#一-代码&quot;</summary>
         
       
     
@@ -130,7 +197,7 @@
     <link href="https://ytlgithub.github.io/2021/07/25/ytlmysql/"/>
     <id>https://ytlgithub.github.io/2021/07/25/ytlmysql/</id>
     <published>2021-07-25T09:20:59.000Z</published>
-    <updated>2021-07-25T11:51:12.622Z</updated>
+    <updated>2021-07-27T06:43:25.187Z</updated>
     
     
       
@@ -155,14 +222,14 @@
     <link href="https://ytlgithub.github.io/2021/07/24/ytlmysql-an-zhuang-jiao-cheng/"/>
     <id>https://ytlgithub.github.io/2021/07/24/ytlmysql-an-zhuang-jiao-cheng/</id>
     <published>2021-07-24T09:28:47.000Z</published>
-    <updated>2021-07-25T11:35:08.521Z</updated>
+    <updated>2021-07-27T04:42:43.821Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;ytlmysql安装&quot;&gt;&lt;a href=&quot;#ytlmysql安装&quot; class=&quot;headerlink&quot; title=&quot;ytlmysql安装&quot;&gt;&lt;/a&gt;ytlmysql安装&lt;/h2&gt;&lt;h3 id=&quot;一-下载MySQL&quot;&gt;&lt;a href=&quot;#一-下载MySQL&quot;</summary>
+    <summary type="html">&lt;h1 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;h2 id=&quot;ytlmysql安装&quot;&gt;&lt;a href=&quot;#ytlmysql安装&quot; class=&quot;headerlink&quot;</summary>
         
       
     
@@ -180,14 +247,14 @@
     <link href="https://ytlgithub.github.io/2021/07/22/blog/"/>
     <id>https://ytlgithub.github.io/2021/07/22/blog/</id>
     <published>2021-07-22T09:32:12.000Z</published>
-    <updated>2021-07-25T04:10:11.892Z</updated>
+    <updated>2021-07-27T09:19:53.758Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;欢迎来到部署个人博客&lt;a href=&quot;https://ytlgithub.github.io/&quot;&gt;ytlBlog&lt;/a&gt;!&lt;/p&gt;
+    <summary type="html">&lt;p&gt;欢迎来到部署个人博客&lt;a href=&quot;https://ytlgithub.github.io/&quot;&gt;ytlBlog&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;部署个人博客&quot;&gt;&lt;a href=&quot;#部署个人博客&quot; class=&quot;headerlink&quot;</summary>
         
       
@@ -206,14 +273,14 @@
     <link href="https://ytlgithub.github.io/2021/07/19/hello-world/"/>
     <id>https://ytlgithub.github.io/2021/07/19/hello-world/</id>
     <published>2021-07-19T09:32:12.000Z</published>
-    <updated>2021-07-23T16:42:00.978Z</updated>
+    <updated>2021-07-27T04:41:48.725Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;h1</summary>
         
       
     
