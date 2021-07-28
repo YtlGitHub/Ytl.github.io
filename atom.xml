@@ -6,7 +6,7 @@
   <link href="https://ytlgithub.github.io/atom.xml" rel="self"/>
   
   <link href="https://ytlgithub.github.io/"/>
-  <updated>2021-07-27T16:02:25.382Z</updated>
+  <updated>2021-07-28T15:00:11.555Z</updated>
   <id>https://ytlgithub.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://ytlgithub.github.io/2021/07/27/pythonweb-duan-ui-zi-dong-hua-ce-shi/"/>
     <id>https://ytlgithub.github.io/2021/07/27/pythonweb-duan-ui-zi-dong-hua-ce-shi/</id>
     <published>2021-07-27T15:19:13.000Z</published>
-    <updated>2021-07-27T16:02:25.382Z</updated>
+    <updated>2021-07-28T15:00:11.555Z</updated>
     
     
       
@@ -43,11 +43,37 @@
   </entry>
   
   <entry>
+    <title>部署个人博客</title>
+    <link href="https://ytlgithub.github.io/2021/07/27/blog/"/>
+    <id>https://ytlgithub.github.io/2021/07/27/blog/</id>
+    <published>2021-07-27T09:32:12.000Z</published>
+    <updated>2021-07-28T15:06:36.497Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;欢迎来到部署个人博客&lt;a href=&quot;https://ytlgithub.github.io/&quot;&gt;ytlBlog&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;部署个人博客&quot;&gt;&lt;a href=&quot;#部署个人博客&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Blog" scheme="https://ytlgithub.github.io/categories/Blog/"/>
+    
+    
+    <category term="Blog" scheme="https://ytlgithub.github.io/tags/Blog/"/>
+    
+  </entry>
+  
+  <entry>
     <title>hexo-theme-matery主题设置</title>
     <link href="https://ytlgithub.github.io/2021/07/27/hexo-theme-matery-zhu-ti-she-zhi/"/>
     <id>https://ytlgithub.github.io/2021/07/27/hexo-theme-matery-zhu-ti-she-zhi/</id>
     <published>2021-07-27T04:26:52.000Z</published>
-    <updated>2021-07-27T14:27:41.513Z</updated>
+    <updated>2021-07-28T15:00:11.555Z</updated>
     
     
       
@@ -60,10 +86,10 @@
     
     
     
-    <category term="blog" scheme="https://ytlgithub.github.io/categories/blog/"/>
+    <category term="Blog" scheme="https://ytlgithub.github.io/categories/Blog/"/>
     
     
-    <category term="blog" scheme="https://ytlgithub.github.io/tags/blog/"/>
+    <category term="Blog" scheme="https://ytlgithub.github.io/tags/Blog/"/>
     
   </entry>
   
@@ -97,14 +123,14 @@
     <link href="https://ytlgithub.github.io/2021/07/25/github/"/>
     <id>https://ytlgithub.github.io/2021/07/25/github/</id>
     <published>2021-07-25T14:52:15.000Z</published>
-    <updated>2021-07-27T04:43:43.936Z</updated>
+    <updated>2021-07-28T15:00:11.555Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h1 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://ytlgithub.github.io/medias/ytlimg/en.jpg&quot;</summary>
         
       
     
@@ -122,7 +148,7 @@
     <link href="https://ytlgithub.github.io/2021/07/25/git/"/>
     <id>https://ytlgithub.github.io/2021/07/25/git/</id>
     <published>2021-07-25T14:52:08.000Z</published>
-    <updated>2021-07-27T04:35:45.067Z</updated>
+    <updated>2021-07-28T15:53:49.753Z</updated>
     
     
       
@@ -239,32 +265,6 @@
     
     
     <category term="MySQL" scheme="https://ytlgithub.github.io/tags/MySQL/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>部署个人博客</title>
-    <link href="https://ytlgithub.github.io/2021/07/22/blog/"/>
-    <id>https://ytlgithub.github.io/2021/07/22/blog/</id>
-    <published>2021-07-22T09:32:12.000Z</published>
-    <updated>2021-07-27T09:19:53.758Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;欢迎来到部署个人博客&lt;a href=&quot;https://ytlgithub.github.io/&quot;&gt;ytlBlog&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;部署个人博客&quot;&gt;&lt;a href=&quot;#部署个人博客&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="Blog" scheme="https://ytlgithub.github.io/categories/Blog/"/>
-    
-    
-    <category term="Blog" scheme="https://ytlgithub.github.io/tags/Blog/"/>
     
   </entry>
   
