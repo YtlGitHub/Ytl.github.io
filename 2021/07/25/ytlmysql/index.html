@@ -475,19 +475,54 @@
         <hr class="clearfix">
 
         
+        <!-- 是否加载使用自带的 prismjs. -->
+        <link rel="stylesheet" href="/libs/prism/prism.css">
+        
 
         
 
         <div class="card-content article-card-content">
             <div id="articleContent">
                 <h2 id="ytlmysql"><a href="#ytlmysql" class="headerlink" title="ytlmysql"></a>ytlmysql</h2><h3 id="一-连接MySQL服务-MySQL数据库-的指令-查询电脑ip命令-ipconfig"><a href="#一-连接MySQL服务-MySQL数据库-的指令-查询电脑ip命令-ipconfig" class="headerlink" title="一.连接MySQL服务(MySQL数据库)的指令,查询电脑ip命令(ipconfig)"></a>一.连接MySQL服务(MySQL数据库)的指令,查询电脑ip命令(ipconfig)</h3><p>mysql - h 主机IP -P 端口 -u 用户名 -p密码<br>提醒:<br>(1)-p密码不要有空格,<br>(2)-p后面没有输入密码,回车会要求输入密码<br>(3)如果没有写-h 主机ip,默认就是主机<br>(4)如果没有写-p 端口,默认就是3306<br>(5)在实际工作中,3306一般会修改<br>(6)登入之前确保MySQL服务是启动状态 net start mysql 启动服务 net stop mysql 停止服务</p>
-<h3 id="二-查看数据"><a href="#二-查看数据" class="headerlink" title="二.查看数据:"></a>二.查看数据:</h3><p>show databases<br>use mysql<br>show tables;<br>select * from user;  # 查询user表</p>
+<h3 id="二-查看数据"><a href="#二-查看数据" class="headerlink" title="二.查看数据:"></a>二.查看数据:</h3><pre class="line-numbers language-mysql" data-language="mysql"><code class="language-mysql">show databases
+use mysql
+show tables;
+select * from user;  # 查询user表<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre>
+
 <h3 id="三-创建数据库"><a href="#三-创建数据库" class="headerlink" title="三.创建数据库:"></a>三.创建数据库:</h3><p>create database db02;  # 创建db02数据库<br>use db02<br>create table users (id int, name varchar(255), address varchar(255));  # 创建表格<br>insert into users values(1,’tom’,’bj’);  # 插入数据<br>insert into users values(2,’jack’,’sh’);  # 插入数据<br>insert into users values(3,’shunping’,’gz’);  # 插入数据<br>select * from users;  # 查询users表格数据<br>指令创建表,格式如下:注意(字体变蓝说明是个关键字,我们应该加个反引号``这个引起来)</p>
-<figure class="highlight shell"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">CREATE TABLE `表名`(</span><br><span class="line">指定列名1 指定列类型(字段类型),</span><br><span class="line">id int,</span><br><span class="line">`password` VARCHAR(255),</span><br><span class="line">`birthday` DATE)</span><br><span class="line">CHARACTER SET utf8 COLLATE utf8_bin ENGINE INNODB;</span><br><span class="line">character set:字符集,如不指定测为所在数据库字符集,].</span><br><span class="line">collate:校对规则,如不指定则为所在数据库校对规则.</span><br><span class="line">engine:存储引擎,涉及内容较多.</span><br><span class="line">id        整形(int)</span><br><span class="line">name      字符串(varchar(225))</span><br><span class="line">password  字符串(varchar(255))</span><br><span class="line">birthday  日期(date)</span><br></pre></td></tr></tbody></table></figure>
-<figure class="highlight shell"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">CREATE TABLE `user02`(</span><br><span class="line">	id INT,</span><br><span class="line">	`name` VARCHAR(255),</span><br><span class="line">	`password` VARCHAR(255),</span><br><span class="line">	`birthday` DATE)</span><br><span class="line">	CHARACTER SET utf8 COLLATE utf8_bin ENGINE INNODB;</span><br></pre></td></tr></tbody></table></figure>
-<h3 id="四-备份恢复数据库或者表"><a href="#四-备份恢复数据库或者表" class="headerlink" title="四.备份恢复数据库或者表:"></a>四.备份恢复数据库或者表:</h3><p>(1)备份数据库(注意:在DOS执行,后面不带分号)<br>mysqldump -u 用户名 -p -B 数据库1 数据库2 数据库n &gt; d:\path文件名.sql<br>(2)备份库的表:(注意:备份表不要-B)<br>mysqldump -u 用户名 -p密码 数据库名 表名1 表名2 表名n &gt; d:\path文件名.sql<br>(3)恢复数据库(注意:进入mysql里面在执行,先创建新的数据库名,在在这个库名下面备份数据)<br>create database 新库名;<br>use 新库名;<br>Source d:\path文件名.sql</p>
-<h3 id="五-删除数据库里面的表"><a href="#五-删除数据库里面的表" class="headerlink" title="五.删除数据库里面的表:"></a>五.删除数据库里面的表:</h3><p>drop table 表名:</p>
-<h3 id="六-删除数据库-注意-进入mysql在执行-慎重使用"><a href="#六-删除数据库-注意-进入mysql在执行-慎重使用" class="headerlink" title="六.删除数据库(注意:进入mysql在执行,慎重使用.)"></a>六.删除数据库(注意:进入mysql在执行,慎重使用.)</h3><p>drop database 库名;</p>
+<pre class="line-numbers language-mysql" data-language="mysql"><code class="language-mysql">CREATE TABLE `表名`(
+指定列名1 指定列类型(字段类型),
+id int,
+`password` VARCHAR(255),
+`birthday` DATE)
+CHARACTER SET utf8 COLLATE utf8_bin ENGINE INNODB;
+character set:字符集,如不指定测为所在数据库字符集,].
+collate:校对规则,如不指定则为所在数据库校对规则.
+engine:存储引擎,涉及内容较多.
+id        整形(int)
+name      字符串(varchar(225))
+password  字符串(varchar(255))
+birthday  日期(date)<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+<pre class="line-numbers language-mysql" data-language="mysql"><code class="language-mysql">CREATE TABLE `user02`(
+	id INT,
+	`name` VARCHAR(255),
+	`password` VARCHAR(255),
+	`birthday` DATE)
+	CHARACTER SET utf8 COLLATE utf8_bin ENGINE INNODB;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+
+<h3 id="四-备份恢复数据库或者表"><a href="#四-备份恢复数据库或者表" class="headerlink" title="四.备份恢复数据库或者表:"></a>四.备份恢复数据库或者表:</h3><p>(1)备份数据库(注意:在DOS执行,后面不带分号)</p>
+<pre class="line-numbers language-mysql" data-language="mysql"><code class="language-mysql">mysqldump -u 用户名 -p -B 数据库1 数据库2 数据库n &gt; d:\\path文件名.sql<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
+<p>(2)备份库的表:(注意:备份表不要-B)</p>
+<pre class="line-numbers language-mysql" data-language="mysql"><code class="language-mysql">mysqldump -u 用户名 -p密码 数据库名 表名1 表名2 表名n &gt; d:\\path文件名.sql<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
+<p>(3)恢复数据库(注意:进入mysql里面在执行,先创建新的数据库名,在在这个库名下面备份数据)</p>
+<pre class="line-numbers language-mysql" data-language="mysql"><code class="language-mysql">create database 新库名;
+use 新库名;
+Source d:\\path文件名.sql<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre>
+
+<h3 id="五-删除数据库里面的表"><a href="#五-删除数据库里面的表" class="headerlink" title="五.删除数据库里面的表:"></a>五.删除数据库里面的表:</h3><pre class="line-numbers language-mysql" data-language="mysql"><code class="language-mysql">drop table 表名:<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
+
+<h3 id="六-删除数据库-注意-进入mysql在执行-慎重使用"><a href="#六-删除数据库-注意-进入mysql在执行-慎重使用" class="headerlink" title="六.删除数据库(注意:进入mysql在执行,慎重使用.)"></a>六.删除数据库(注意:进入mysql在执行,慎重使用.)</h3><pre class="line-numbers language-mysql" data-language="mysql"><code class="language-mysql">drop database 库名;<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
+
 <h3 id="七-数据库的增删改查"><a href="#七-数据库的增删改查" class="headerlink" title="七.数据库的增删改查"></a>七.数据库的增删改查</h3><h4 id="1-增"><a href="#1-增" class="headerlink" title="1.增"></a>1.增</h4><p>1、向所有列插入数据–into关键字可以省略<br>insert    into    表名  values（列值1，列值2，……）<br>insert    into  studentinfo  values（‘004’，‘张鑫’，19，‘北京海淀’）<br>2、向指定列插入数据–into关键字可以省略<br>，不提供值的列一定是可以为空的列（null），<br>列名的顺序可以与表结构中的顺序不同，只要列值的顺序与之对应就行<br>insert    studentinfo（姓名，学号）  values（‘王强’，‘006’）<br>insert  into  表名（列名1，列名2，……） values（列值1，列值2，……）<br>insert    into  studentinfo（学号，姓名）  values（‘005’，‘李清’<br>identity–相同：对于标识列，因为是自动增长的，所以不能指定值<br>default–系统设定值：具有缺省值的列，可以使用default关键字来替代插入的数据</p>
 <h4 id="2-删"><a href="#2-删" class="headerlink" title="2.删"></a>2.删</h4><p>删除表中数据–from关键字可以省略，如果不指定where条件，将把表中所有记录都删除掉（很危险！），<br>如果使用where指定条件，则满足条件的记录被删除<br>不能只删除半行或某几列数据<br>delete-删除   from   Tab1<br>delete   book  where  bid=’s0000’<br>truncate-删除所有   table 表名–不能指定条件，只能删除所有数据，所以功能等价于“delate  表名”的语句<br>优点：速度更快，使用的系统资源和事务日志资源更少<br>缺点：不会将删除每一条记录的操作记录到日志中，所以一旦删除，则无法通过日志恢复删除的数据<br>drop-删除    database-数据库 表名–删除数据库名<br>drop table-表 表名–删除表结构</p>
 <h4 id="3-改"><a href="#3-改" class="headerlink" title="3.改"></a>3.改</h4><p>update–更新 表名 set–日落 列名1=该列新值，列名2=该列新值，……where 条件<br>update 表名 set salary=salary+100–表述每行工资都加100<br>update book set pub=’新华出版社’   where    Bname=’娱乐天地‘–更新指定的记录<br>update book set author2=’江泽民’,numinput=100,numstore=100 where author1=’邓小平’–同时更新多个字段</p>
