@@ -6,7 +6,7 @@
   <link href="https://ytlgithub.github.io/atom.xml" rel="self"/>
   
   <link href="https://ytlgithub.github.io/"/>
-  <updated>2021-08-03T14:58:39.715Z</updated>
+  <updated>2022-11-15T16:16:26.997Z</updated>
   <id>https://ytlgithub.github.io/</id>
   
   <author>
@@ -17,11 +17,185 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>小红书ui自动化测试</title>
+    <link href="https://ytlgithub.github.io/2022/11/15/xiao-hong-shu-ui-zi-dong-hua-ce-shi/"/>
+    <id>https://ytlgithub.github.io/2022/11/15/xiao-hong-shu-ui-zi-dong-hua-ce-shi/</id>
+    <published>2022-11-14T16:02:19.000Z</published>
+    <updated>2022-11-15T16:16:26.997Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;小红书ui自动化测试，运行RUN_main.py文件执行所有测试用例&lt;br&gt;用到了&lt;a href=&quot;http://e.betheme.net/article/show-80644.html?action=onClick&quot;&gt;uiautomator2&lt;/a&gt;&lt;br&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="APP" scheme="https://ytlgithub.github.io/categories/APP/"/>
+    
+    
+    <category term="自动化测试" scheme="https://ytlgithub.github.io/tags/%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>linux里面安装Mysql</title>
+    <link href="https://ytlgithub.github.io/2022/08/18/linux-li-mian-an-zhuang-mysql/"/>
+    <id>https://ytlgithub.github.io/2022/08/18/linux-li-mian-an-zhuang-mysql/</id>
+    <published>2022-08-18T07:37:13.000Z</published>
+    <updated>2022-11-14T15:02:37.778Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;熟悉linux&lt;br&gt;虚拟机、镜像iso下载地址及说明：&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="linux" scheme="https://ytlgithub.github.io/categories/linux/"/>
+    
+    
+    <category term="linux" scheme="https://ytlgithub.github.io/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>sql questions</title>
+    <link href="https://ytlgithub.github.io/2022/08/01/sql-questions/"/>
+    <id>https://ytlgithub.github.io/2022/08/01/sql-questions/</id>
+    <published>2022-08-01T09:29:51.000Z</published>
+    <updated>2022-11-14T15:02:37.783Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;sql常用试题&lt;/p&gt;
+&lt;h2 id=&quot;一、试题一&quot;&gt;&lt;a href=&quot;#一、试题一&quot; class=&quot;headerlink&quot; title=&quot;一、试题一&quot;&gt;&lt;/a&gt;一、试题一&lt;/h2&gt;&lt;p&gt;现有关系数据库如下：&lt;br&gt;数据库名：我班同学数据库&lt;br&gt;同学表(学号</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>python App</title>
+    <link href="https://ytlgithub.github.io/2022/05/10/pythonapp/"/>
+    <id>https://ytlgithub.github.io/2022/05/10/pythonapp/</id>
+    <published>2022-05-10T10:42:13.000Z</published>
+    <updated>2022-11-14T15:02:37.779Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;python编写app自动化脚本&lt;/p&gt;
+&lt;h2 id=&quot;安装环境&quot;&gt;&lt;a href=&quot;#安装环境&quot; class=&quot;headerlink&quot; title=&quot;安装环境&quot;&gt;&lt;/a&gt;安装环境&lt;/h2&gt;&lt;p&gt;python</summary>
+        
+      
+    
+    
+    
+    <category term="自动化测试" scheme="https://ytlgithub.github.io/categories/%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95/"/>
+    
+    
+    <category term="自动化测试" scheme="https://ytlgithub.github.io/tags/%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Django的模板</title>
+    <link href="https://ytlgithub.github.io/2021/10/12/django-de-mo-ban/"/>
+    <id>https://ytlgithub.github.io/2021/10/12/django-de-mo-ban/</id>
+    <published>2021-10-12T07:51:32.000Z</published>
+    <updated>2022-11-14T15:02:37.773Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Django的模板介绍&quot;&gt;&lt;a href=&quot;#Django的模板介绍&quot; class=&quot;headerlink&quot; title=&quot;Django的模板介绍&quot;&gt;&lt;/a&gt;Django的模板介绍&lt;/h1&gt;&lt;ul&gt;
+   </summary>
+        
+      
+    
+    
+    
+    <category term="server" scheme="https://ytlgithub.github.io/categories/server/"/>
+    
+    
+    <category term="Django" scheme="https://ytlgithub.github.io/tags/Django/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PyDjangoServer</title>
+    <link href="https://ytlgithub.github.io/2021/09/13/pydjangoserver/"/>
+    <id>https://ytlgithub.github.io/2021/09/13/pydjangoserver/</id>
+    <published>2021-09-13T10:27:15.000Z</published>
+    <updated>2022-11-14T15:02:37.775Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;这是一个使用python语言，Django框架编写的一个web服务&quot;&gt;&lt;a href=&quot;#这是一个使用python语言，Django框架编写的一个web服务&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="server" scheme="https://ytlgithub.github.io/categories/server/"/>
+    
+    
+    <category term="Django" scheme="https://ytlgithub.github.io/tags/Django/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HtmlStudy</title>
+    <link href="https://ytlgithub.github.io/2021/09/08/htmlstudy/"/>
+    <id>https://ytlgithub.github.io/2021/09/08/htmlstudy/</id>
+    <published>2021-09-08T09:44:14.000Z</published>
+    <updated>2022-11-14T15:02:37.774Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;认识并学习HTML标签&quot;&gt;&lt;a href=&quot;#认识并学习HTML标签&quot; class=&quot;headerlink&quot; title=&quot;认识并学习HTML标签&quot;&gt;&lt;/a&gt;认识并学习&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Html" scheme="https://ytlgithub.github.io/categories/Html/"/>
+    
+    
+    <category term="Html" scheme="https://ytlgithub.github.io/tags/Html/"/>
+    
+  </entry>
+  
+  <entry>
     <title>pythonweb端UI自动化测试</title>
     <link href="https://ytlgithub.github.io/2021/07/27/pythonweb-duan-ui-zi-dong-hua-ce-shi/"/>
     <id>https://ytlgithub.github.io/2021/07/27/pythonweb-duan-ui-zi-dong-hua-ce-shi/</id>
     <published>2021-07-27T15:19:13.000Z</published>
-    <updated>2021-08-03T14:58:39.715Z</updated>
+    <updated>2022-11-14T15:02:37.782Z</updated>
     
     
       
@@ -47,7 +221,7 @@
     <link href="https://ytlgithub.github.io/2021/07/27/blog/"/>
     <id>https://ytlgithub.github.io/2021/07/27/blog/</id>
     <published>2021-07-27T09:32:12.000Z</published>
-    <updated>2021-07-28T15:06:36.497Z</updated>
+    <updated>2022-11-14T15:02:37.772Z</updated>
     
     
       
@@ -73,7 +247,7 @@
     <link href="https://ytlgithub.github.io/2021/07/27/hexo-theme-matery-zhu-ti-she-zhi/"/>
     <id>https://ytlgithub.github.io/2021/07/27/hexo-theme-matery-zhu-ti-she-zhi/</id>
     <published>2021-07-27T04:26:52.000Z</published>
-    <updated>2021-07-29T15:16:50.221Z</updated>
+    <updated>2022-11-14T15:02:37.778Z</updated>
     
     
       
@@ -99,7 +273,7 @@
     <link href="https://ytlgithub.github.io/2021/07/25/wu-chong-zhuang-tai-ma/"/>
     <id>https://ytlgithub.github.io/2021/07/25/wu-chong-zhuang-tai-ma/</id>
     <published>2021-07-25T15:29:31.000Z</published>
-    <updated>2021-07-29T15:16:50.284Z</updated>
+    <updated>2022-11-14T15:02:37.787Z</updated>
     
     
       
@@ -124,7 +298,7 @@
     <link href="https://ytlgithub.github.io/2021/07/25/github/"/>
     <id>https://ytlgithub.github.io/2021/07/25/github/</id>
     <published>2021-07-25T14:52:15.000Z</published>
-    <updated>2021-07-29T15:16:50.206Z</updated>
+    <updated>2022-11-14T15:02:37.776Z</updated>
     
     
       
@@ -149,7 +323,7 @@
     <link href="https://ytlgithub.github.io/2021/07/25/git/"/>
     <id>https://ytlgithub.github.io/2021/07/25/git/</id>
     <published>2021-07-25T14:52:08.000Z</published>
-    <updated>2021-07-29T15:16:50.206Z</updated>
+    <updated>2022-11-14T15:02:37.776Z</updated>
     
     
       
@@ -174,7 +348,7 @@
     <link href="https://ytlgithub.github.io/2021/07/25/ytljava/"/>
     <id>https://ytlgithub.github.io/2021/07/25/ytljava/</id>
     <published>2021-07-25T14:46:51.000Z</published>
-    <updated>2021-07-29T15:16:50.237Z</updated>
+    <updated>2022-11-14T15:02:37.784Z</updated>
     
     
       
@@ -199,7 +373,7 @@
     <link href="https://ytlgithub.github.io/2021/07/25/ytlpython/"/>
     <id>https://ytlgithub.github.io/2021/07/25/ytlpython/</id>
     <published>2021-07-25T14:46:41.000Z</published>
-    <updated>2021-07-29T15:16:50.268Z</updated>
+    <updated>2022-11-14T15:02:37.787Z</updated>
     
     
       
@@ -225,7 +399,7 @@
     <link href="https://ytlgithub.github.io/2021/07/25/ytlmysql/"/>
     <id>https://ytlgithub.github.io/2021/07/25/ytlmysql/</id>
     <published>2021-07-25T09:20:59.000Z</published>
-    <updated>2021-08-29T10:17:51.391Z</updated>
+    <updated>2022-11-14T15:02:37.784Z</updated>
     
     
       
@@ -250,7 +424,7 @@
     <link href="https://ytlgithub.github.io/2021/07/24/ytlmysql-an-zhuang-jiao-cheng/"/>
     <id>https://ytlgithub.github.io/2021/07/24/ytlmysql-an-zhuang-jiao-cheng/</id>
     <published>2021-07-24T09:28:47.000Z</published>
-    <updated>2021-08-29T06:42:31.447Z</updated>
+    <updated>2022-11-14T15:02:37.786Z</updated>
     
     
       
@@ -275,7 +449,7 @@
     <link href="https://ytlgithub.github.io/2021/07/19/hello-world/"/>
     <id>https://ytlgithub.github.io/2021/07/19/hello-world/</id>
     <published>2021-07-19T09:32:12.000Z</published>
-    <updated>2021-07-29T15:16:50.206Z</updated>
+    <updated>2022-11-14T15:02:37.777Z</updated>
     
     
       
